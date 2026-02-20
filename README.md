@@ -1,6 +1,6 @@
 <div align="center">
   
-# <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" height=28 /> <a href="https://steamcommunity.com/id/sharewyd/">sharewyd</a><a href="https://github.com/sharewyd/kayak_vr_mirage_ru_localization">/kayak_vr_mirage_ru_localization</a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Github_logo_svg.svg/640px-Github_logo_svg.svg.png" height=28 />
+# <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" height=28 /> <a href="https://steamcommunity.com/id/sharewyd/">sharewyd</a><a href="https://github.com/sharewyd/kayak_vr_mirage_ru_localization">/kayak_vr_mirage_ru_localization</a> <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Github_logo_svg.svg" height=28 />
 
 Локализатор текста игры Karyak VR: Mirage на русский язык
 
